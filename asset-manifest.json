@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4ab92d30.css",
+    "main.js": "./static/js/main.19c2b9a0.js",
+    "static/js/377.3e6b9ef3.chunk.js": "./static/js/377.3e6b9ef3.chunk.js",
+    "static/media/ani-icon-eye.gif": "./static/media/ani-icon-eye.b3291d38e641fee3dfa8.gif",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html",
+    "main.4ab92d30.css.map": "./static/css/main.4ab92d30.css.map",
+    "main.19c2b9a0.js.map": "./static/js/main.19c2b9a0.js.map",
+    "377.3e6b9ef3.chunk.js.map": "./static/js/377.3e6b9ef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab92d30.css",
+    "static/js/main.19c2b9a0.js"
+  ]
+}
